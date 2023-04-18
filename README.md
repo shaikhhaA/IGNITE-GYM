@@ -29,7 +29,8 @@ This website is built as a project for the web development course at university.
 
 ## Homepage
 
-"https://user-images.githubusercontent.com/122119477/232916128-bbf817bf-1624-4cd0-8edf-42c4eeedcd72.mp4 "
+
+https://user-images.githubusercontent.com/122119477/232924082-c5b8b90f-7eb7-4794-978c-0e685dd92c5c.mp4
 
 
 
