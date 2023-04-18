@@ -28,9 +28,13 @@ This website is built as a project for the web development course at university.
 
 
 ## Homepage
+https://user-images.githubusercontent.com/122119477/232925637-66bfbf50-e831-47a5-b065-17a1e8b188e8.mp4
 
 
-https://user-images.githubusercontent.com/122119477/232924082-c5b8b90f-7eb7-4794-978c-0e685dd92c5c.mp4
+
+
+
+
 
 
 
